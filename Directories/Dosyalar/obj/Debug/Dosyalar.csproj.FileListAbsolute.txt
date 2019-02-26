@@ -1,0 +1,9 @@
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\Dosyalar\bin\Debug\Dosyalar.exe.config
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\Dosyalar\bin\Debug\Dosyalar.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\Dosyalar\bin\Debug\Dosyalar.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\Dosyalar\obj\Debug\Dosyalar.csprojResolveAssemblyReference.cache
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\Dosyalar\obj\Debug\Dosyalar.Form1.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\Dosyalar\obj\Debug\Dosyalar.Properties.Resources.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\Dosyalar\obj\Debug\Dosyalar.csproj.GenerateResource.Cache
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\Dosyalar\obj\Debug\Dosyalar.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\Dosyalar\obj\Debug\Dosyalar.pdb

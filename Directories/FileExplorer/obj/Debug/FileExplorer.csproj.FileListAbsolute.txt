@@ -1,0 +1,48 @@
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\FileExplorer\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\Directories\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\Directories\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\Directories\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\Directories\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\Directories\FileExplorer\obj\Debug\FileExplorer.csprojAssemblyReference.cache
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\Directories\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\Directories\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\Directories\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.cache
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\Directories\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\Directories\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\Directories\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\iau\Desktop\Directories\Directories\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\iau\Desktop\Directories\Directories\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\iau\Desktop\Directories\Directories\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\iau\Desktop\Directories\Directories\FileExplorer\obj\Debug\FileExplorer.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\Directories\Directories\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+C:\Users\iau\Desktop\Directories\Directories\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\iau\Desktop\Directories\Directories\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.cache
+C:\Users\iau\Desktop\Directories\Directories\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\Directories\Directories\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\iau\Desktop\Directories\Directories\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\Ali KAVAK\Desktop\AyvanSaray\Directories\Directories\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\Ali KAVAK\Desktop\AyvanSaray\Directories\Directories\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\Ali KAVAK\Desktop\AyvanSaray\Directories\Directories\FileExplorer\obj\Debug\FileExplorer.pdb
